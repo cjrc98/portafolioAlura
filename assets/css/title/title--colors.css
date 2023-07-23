@@ -1,0 +1,53 @@
+.title__colors__item--morado{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(226, 59, 226);
+}
+.title__colors__item--azul{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(85, 59, 235);
+}
+.title__colors__item--verde{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(73, 221, 68);
+}
+.title__colors__item--negro{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(32, 32, 32);
+}
+.title__colors__item--amarillo{
+    height: 20px;
+    width: 20px;
+    border-radius: 50%;
+    background-color: rgb(231, 214, 59);
+}
+.morado{
+    background-color: rgb(226, 59, 226);
+    box-shadow: 2px 2px 20px 5px rgb(226, 59, 226);
+}
+.azul{
+    background-color: rgb(85, 59, 235);
+    box-shadow: 2px 2px 20px 5pxrgb(85, 59, 235);
+}
+.verde{
+    background-color: rgb(73, 221, 68);
+    box-shadow: 2px 2px 20px 5px rgb(73, 221, 68);
+}
+.negro{
+    background-color: rgb(32, 32, 32);
+    box-shadow: 2px 2px 20px 5px rgb(32, 32, 32);
+}
+.amarillo{
+    background-color: rgb(231, 214, 59);
+    box-shadow: 2px 2px 20px 5px rgb(231, 214, 59);
+}
+.title__colors__item{
+    margin-bottom: 5px;
+}

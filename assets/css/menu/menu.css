@@ -1,0 +1,30 @@
+section.menu{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 15px 0px 15px;
+}
+
+.menu__header{
+    display: flex;
+    height: 50px;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 16px;
+}
+.menu__header img{
+    width: 24px;
+    height: 24px;
+    position: relative;
+}
+.menu__list{
+    display: flex;
+}
+.menu__title{
+    margin-left: 8px;
+}
+.menu__list__item__contato{
+    display: none;
+}
+.menu__list__item{
+    margin-left: 8px;
+}

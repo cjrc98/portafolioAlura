@@ -1,0 +1,6 @@
+.title__network{
+    display: flex;
+}
+.title__network__item{
+    margin-right: 30px;
+}

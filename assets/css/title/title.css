@@ -1,0 +1,28 @@
+.title{
+    margin-top: 30px;
+}
+.title__profile{
+    width: 300px;
+    height: 300px;
+    border-radius: 50%;
+    background-color: rgba(22, 22, 160, 0.541);
+    box-shadow: 2px 2px 20px 5px rgba(0, 0, 0, 0.37);
+}
+.title__div{
+    display: flex;
+    flex-direction: row-reverse;
+    align-items: center;
+}
+.title__bio{
+    font-size: 52px;
+    font-weight: 700;
+    text-align: center;
+}
+.title__subsection{
+    font-size: 22px;
+    font-weight: 400;
+}
+.title__colors{
+    
+    margin-right: 5px;
+}
