@@ -1,0 +1,16 @@
+.formcontato{
+    background-color: #EAF2FD;
+}
+.formcontato__input{
+    border: 0;
+    border-radius: 2px 2px 0px 0px;
+    height: 40px;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.342);
+    font-family: Raleway, sans-serif;
+    display: block;
+    width: 80%;
+    margin-bottom: 25px;
+}
+.formcontato__input:hover{
+    border-bottom: 2px solid rgb(50, 139, 255);
+}
